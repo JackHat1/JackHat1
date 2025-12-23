@@ -29,4 +29,4 @@
 ### Consistency Tracking
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff" alt="GitHub Streak" width="100%" />
 
-*Heraklion, Greece*
+*Chania, Greece*
