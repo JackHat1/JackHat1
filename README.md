@@ -1,32 +1,30 @@
-# <code>Andreas Panagiotakis</code>
-> **ECE Undergraduate | Head of Electrical at FSTUC**
-> *Automotive & Embedded Systems Specialist*
-
-[LinkedIn](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/) | Heraklion, Greece
+# <code>ANDREAS PANAGIOTAKIS</code>
+**ECE Undergraduate | Head of Electrical, FSTUC** *Specializing in Automotive Systems & Embedded Software*
 
 ---
 
-### 📂 Technical Stack
-`Languages` &nbsp;&nbsp; **C // Java**
-`Focus` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Embedded Systems // Automotive Architecture // RTOS**
-`Tools` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Git // Linux // VS Code**
+### Technical Profile
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | C, Java |
+| **Embedded** | Microcontrollers, RTOS, Automotive ECUs |
+| **Systems** | Linux, Git, Hardware-Software Integration |
 
 ---
 
-### 📊 Language Insights
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=tokyonight&hide_border=true&title_color=70a1ff&text_color=a4b0be&bg_color=0d1117&hide=html,css,javascript&langs_count=8" alt="Top Languages" width="350" />
+### Language Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=tokyonight&hide_border=true&title_color=70a1ff&text_color=a4b0be&bg_color=0d1117&hide=html,css,javascript&langs_count=5" alt="Top Languages" width="380" />
 
 ---
 
-### 📝 Professional Overview
-* **Electrical & Computer Engineering**
-  Undergraduate student focusing on the intersection of hardware and software.
-* **FSTUC (Formula Student Team UOC)**
-  Leading the Electrical Department in designing high-performance racing electronics and wire harness integration.
-* **Core Development**
-  Specializing in low-level memory management in **C** and scalable application logic in **Java**.
+### Professional Overview
+* **Electrical & Computer Engineering** Focusing on low-level optimization and robust system architecture within the ECE curriculum.
+* **Formula Student Team University of Crete (FSTUC)** Managing the Electrical Department. Responsible for vehicle electronics, sensor integration, and telemetry systems.
+* **Core Competencies** Strong foundation in C for hardware-level development and Java for application-level logic and tooling.
 
 ---
 
-### 📈 Activity Tracking
+### Consistency Tracking
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff" alt="GitHub Streak" width="100%" />
+
+[LinkedIn Profile](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/) | Heraklion, Greece
