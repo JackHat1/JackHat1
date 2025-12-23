@@ -4,7 +4,7 @@
 ### ECE Undergraduate | Head of Electrical at FSTUC
 **Specialization in Automotive & Embedded Systems**
 
-[LinkedIn](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/) | [Email](mailto:your-email@example.com) | Heraklion, Greece
+[LinkedIn](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/) | Heraklion, Greece
 
 ---
 
@@ -19,19 +19,15 @@
 ---
 
 ### Engineering Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=JackHat1&show_icons=true&theme=vivid_gradient&hide_border=true&title_color=0077B5&text_color=333333&icon_color=0077B5" alt="GitHub Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=vivid_gradient&hide_border=true&title_color=0077B5&text_color=333333&hide=html,css,javascript" alt="Top Languages" width="300" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=JackHat1&show_icons=true&theme=high_contrast&hide_border=false&title_color=457b9d&icon_color=a8dadc" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=high_contrast&hide_border=false&title_color=457b9d&hide=html,css,javascript" alt="Top Languages" width="38%" />
 
 </div>
-
-### Professional Overview
-* **Education:** Pursuing a degree in Electrical and Computer Engineering.
-* **Leadership:** Serving as the Head of Electrical for the Formula Student Team University of Crete (FSTUC).
-* **Focus Areas:** Low-level programming, Automotive Electronic Control Units (ECUs), and Hardware-Software co-design.
-* **Current Projects:** Developing robust electrical architectures for high-performance racing vehicles.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=vivid_gradient&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" />
-</div>
+### Professional Overview
+* **Education:** Electrical and Computer Engineering Undergraduate.
+* **Leadership:** Head of Electrical for the Formula Student Team University of Crete (FSTUC).
+* **Focus:** Low-level programming, ECU design, and hardware-software integration.
