@@ -1,4 +1,4 @@
-# <code>ANDREAS PANAGIOTAKIS</code>
+# ANDREAS PANAGIOTAKIS
 **ECE Undergraduate | Head of Electrical, FSTUC** *Specializing in Automotive Systems & Embedded Software*
 
 ---
@@ -20,7 +20,7 @@
 ### Professional Overview
 * **Electrical & Computer Engineering** Focusing on low-level optimization and robust system architecture within the ECE curriculum.
 * **Formula Student Team University of Crete (FSTUC)** Managing the Electrical Department. Responsible for vehicle electronics, sensor integration, and telemetry systems.
-* **Core Competencies** Strong foundation in C for hardware-level development and Java for application-level logic and tooling.
+* **Core Development** Strong foundation in C for hardware-level development and Java for application-level logic and tooling.
 
 ---
 
