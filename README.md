@@ -1,37 +1,32 @@
-<div align="center">
-
-# Andreas Panagiotakis
-### ECE Undergraduate | Head of Electrical at FSTUC
-**Automotive & Embedded Systems**
+# <code>Andreas Panagiotakis</code>
+> **ECE Undergraduate | Head of Electrical at FSTUC**
+> *Automotive & Embedded Systems Specialist*
 
 [LinkedIn](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/) | Heraklion, Greece
 
 ---
 
-### Technical Proficiencies
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-222222?style=for-the-badge&logo=microchip&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📂 Technical Stack
+`Languages` &nbsp;&nbsp; **C // Java**
+`Focus` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Embedded Systems // Automotive Architecture // RTOS**
+`Tools` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Git // Linux // VS Code**
 
 ---
 
-### Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=react&hide_border=true&title_color=61dafb&text_color=ffffff&bg_color=0d1117&hide=html,css,javascript&langs_count=8" alt="Top Languages" width="400" />
-
-</div>
+### 📊 Language Insights
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=tokyonight&hide_border=true&title_color=70a1ff&text_color=a4b0be&bg_color=0d1117&hide=html,css,javascript&langs_count=8" alt="Top Languages" width="350" />
 
 ---
 
-### Professional Overview
-* **Education:** Electrical and Computer Engineering Undergraduate.
-* **Leadership:** Head of Electrical for the Formula Student Team University of Crete (FSTUC).
-* **Project Focus:** Low-level programming, ECU architecture, and hardware-software integration.
-* **Formula Student:** Leading electrical system design and implementation for high-performance automotive applications.
+### 📝 Professional Overview
+* **Electrical & Computer Engineering**
+  Undergraduate student focusing on the intersection of hardware and software.
+* **FSTUC (Formula Student Team UOC)**
+  Leading the Electrical Department in designing high-performance racing electronics and wire harness integration.
+* **Core Development**
+  Specializing in low-level memory management in **C** and scalable application logic in **Java**.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=react&hide_border=true&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
-</div>
+### 📈 Activity Tracking
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff" alt="GitHub Streak" width="100%" />
