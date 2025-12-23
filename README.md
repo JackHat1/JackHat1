@@ -9,7 +9,7 @@
 | Category | Stack |
 | :--- | :--- |
 | **Languages** | C, Java |
-| **Embedded** | Microcontrollers, RTOS, Automotive ECUs |
+| **Embedded** | Microcontrollers , Automotive ECUs |
 | **Systems** | Linux, Git, Hardware-Software Integration |
 
 ---
