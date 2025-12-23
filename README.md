@@ -20,7 +20,8 @@
 
 ### Engineering Statistics
 
-<img src="https://metrics.lecoq.io/JackHat1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Europe%2FAthens&config.twemoji=false" alt="GitHub Metrics" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JackHat1&show_icons=true&theme=high_contrast&hide_border=false&title_color=457b9d&icon_color=a8dadc" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=high_contrast&hide_border=false&title_color=457b9d&hide=html,css,javascript" alt="Top Languages" width="38%" />
 
 </div>
 
@@ -30,4 +31,3 @@
 * **Education:** Electrical and Computer Engineering Undergraduate.
 * **Leadership:** Head of Electrical for the Formula Student Team University of Crete (FSTUC).
 * **Focus:** Low-level programming, ECU design, and hardware-software integration.
-* **Current Projects:** Implementing robust electrical architectures for automotive competition.
