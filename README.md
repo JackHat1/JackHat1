@@ -28,4 +28,4 @@
 ### Consistency Tracking
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff" alt="GitHub Streak" width="100%" />
 
-[LinkedIn Profile](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/) | Chania, Greece
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/)| Chania, Greece
