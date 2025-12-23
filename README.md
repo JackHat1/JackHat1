@@ -7,7 +7,7 @@
 | Category | Stack |
 | :--- | :--- |
 | **Languages** | C, Java |
-| **Embedded** | Microcontrollers, RTOS, Automotive ECUs |
+| **Embedded** | Microcontrollers, Automotive ECUs |
 | **Systems** | Linux, Git, Hardware-Software Integration |
 
 ---
@@ -17,6 +17,7 @@
 
 ---
 
+---
 ### Professional Overview
 * **Electrical & Computer Engineering** Focusing on low-level optimization and robust system architecture within the ECE curriculum.
 * **Formula Student Team University of Crete (FSTUC)** Managing the Electrical Department. Responsible for vehicle electronics, sensor integration, and telemetry systems.
@@ -27,4 +28,4 @@
 ### Consistency Tracking
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff" alt="GitHub Streak" width="100%" />
 
-[LinkedIn Profile](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/) | Heraklion, Greece
+[LinkedIn Profile](https://www.linkedin.com/in/andreas-panagiotakis-a588a5297/) | Chania, Greece
