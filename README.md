@@ -15,7 +15,7 @@
 ---
 
 ### Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&title_color=70a1ff&text_color=a4b0be&bg_color=0d1117&langs_count=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=tokyonight&hide_border=true&title_color=70a1ff&text_color=a4b0be&bg_color=0d1117&langs_count=5&hide=html,css)
 
 ---
 
@@ -27,6 +27,6 @@
 ---
 
 ### Consistency Tracking
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff)
 
 *Chania, Greece*
