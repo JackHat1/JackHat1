@@ -15,7 +15,7 @@
 ---
 
 ### Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat1&layout=compact&theme=tokyonight&hide_border=true&title_color=70a1ff&text_color=a4b0be&bg_color=0d1117&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat&hide=html,css)
 
 ---
 
