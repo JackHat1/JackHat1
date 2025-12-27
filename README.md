@@ -15,7 +15,7 @@
 ---
 
 ### Language Distribution
-![Top Langs](https://YOUR-NEW-VERCEL-URL.vercel.app/api/top-langs/?username=JackHat)---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat&hide=html,css)
 
 ### Professional Overview
 * **Electrical & Computer Engineering:** Focusing on low-level optimization and robust system architecture within the ECE curriculum.
