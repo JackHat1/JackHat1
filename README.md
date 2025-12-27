@@ -15,8 +15,7 @@
 ---
 
 ### Language Distribution
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat&hide=html,css)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat)
 ---
 
 ### Professional Overview
