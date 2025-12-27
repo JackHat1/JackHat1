@@ -15,8 +15,7 @@
 ---
 
 ### Language Distribution
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHat&hide=html,css)
-
+![Top Langs](https://github-readme-stats-git-master-andreas-projects-4c2aa2ee.vercel.app/api/top-langs?username=JackHat&hide=html,css)
 ### Professional Overview
 * **Electrical & Computer Engineering:** Focusing on low-level optimization and robust system architecture within the ECE curriculum.
 * **Formula Student Team University of Crete (FSTUC):** Managing the Electrical Department. Responsible for vehicle electronics, sensor integration, and telemetry systems.
