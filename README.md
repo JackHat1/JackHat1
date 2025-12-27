@@ -20,10 +20,11 @@
 <br>
 
 <a href="https://github.com/JackHat1">
-  <img height="160" src="https://github-readme-stats-nu-one-75.vercel.app/api/top-langs?username=JackHat1&hide=html,css&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+  <img height="170" src="https://github-readme-stats-nu-one-75.vercel.app/api/top-langs?username=JackHat1&hide=html,css&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&layout=compact" />
 </a>
+&nbsp;
 <a href="https://github.com/JackHat1">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&background=1a1b27&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JackHat1&theme=tokyonight&hide_border=true&stroke=70a1ff&ring=70a1ff&fire=70a1ff&currStreakLabel=70a1ff" />
 </a>
 
 </div>
